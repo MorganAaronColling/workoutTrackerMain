@@ -1,0 +1,337 @@
+[
+  {
+    "exercise": "Bicep Dumbbell Curl",
+    "category": "Arms",
+    "primaryMuscles": ["Biceps Brachii"],
+    "secondaryMuscles": ["Brachialis", "Brachioradialis", "Anterior Deltoid", "Upper Trapezius", "Middle Trapezius", "Levator Scapulae", "Forearms"]
+  },
+    {
+      "exercise": "Bench Press",
+      "category": "Chest",
+      "primaryMuscles": [
+        "Pectoralis Major",
+        "Triceps Brachii"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoid",
+        "Serratus Anterior"
+      ]
+    },
+    {
+      "exercise": "Squat",
+      "category": "Legs",
+      "primaryMuscles": [
+        "Quadriceps",
+        "Gluteus Maximus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Adductors",
+        "Erector Spinae",
+        "Abdominals",
+        "Calves"
+      ]
+    },
+    {
+      "exercise": "Deadlift",
+      "category": "Back",
+      "primaryMuscles": [
+        "Hamstrings",
+        "Gluteus Maximus",
+        "Erector Spinae"
+      ],
+      "secondaryMuscles": [
+        "Quadriceps",
+        "Trapezius",
+        "Rhomboids",
+        "Latissimus Dorsi",
+        "Abdominals",
+        "Forearms"
+      ]
+    },
+    {
+      "exercise": "Pull-up",
+      "category": "Back",
+      "primaryMuscles": [
+        "Latissimus Dorsi"
+      ],
+      "secondaryMuscles": [
+        "Biceps Brachii",
+        "Brachialis",
+        "Brachioradialis",
+        "Trapezius",
+        "Rhomboids",
+        "Pectoralis Major"
+      ]
+    },
+    {
+      "exercise": "Shoulder Press",
+      "category": "Shoulders",
+      "primaryMuscles": [
+        "Deltoids"
+      ],
+      "secondaryMuscles": [
+        "Trapezius",
+        "Triceps Brachii"
+      ]
+    },
+    {
+      "exercise": "Leg Press",
+      "category": "Legs",
+      "primaryMuscles": [
+        "Quadriceps",
+        "Gluteus Maximus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Adductors",
+        "Calves"
+      ]
+    },
+    {
+      "exercise": "Tricep Dips",
+      "category": "Arms",
+      "primaryMuscles": [
+        "Triceps Brachii"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoid",
+        "Pectoralis Major"
+      ]
+    },
+    {
+      "exercise": "Lateral Raises",
+      "category": "Shoulders",
+      "primaryMuscles": [
+        "Lateral Deltoid"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoid",
+        "Posterior Deltoid",
+        "Trapezius",
+        "Supraspinatus"
+      ]
+    },
+    {
+      "exercise": "Seated Row",
+      "category": "Back",
+      "primaryMuscles": [
+        "Latissimus Dorsi",
+        "Rhomboids",
+        "Trapezius"
+      ],
+      "secondaryMuscles": [
+        "Biceps Brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ]
+    },
+    {
+      "exercise": "Cable Fly",
+      "category": "Chest",
+      "primaryMuscles": [
+        "Pectoralis Major"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoid",
+        "Triceps Brachii"
+      ]
+    },
+    {
+      "exercise": "Barbell Row",
+      "category": "Back",
+      "primaryMuscles": [
+        "Latissimus Dorsi",
+        "Rhomboids",
+        "Trapezius"
+      ],
+      "secondaryMuscles": [
+        "Biceps Brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ]
+    },
+    {
+      "exercise": "Push-ups",
+      "category": "Chest",
+      "primaryMuscles": [
+        "Pectoralis Major",
+        "Triceps Brachii"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoid",
+        "Serratus Anterior"
+      ]
+    },
+    {
+      "exercise": "Lunges",
+      "category": "Legs",
+      "primaryMuscles": [
+        "Quadriceps",
+        "Gluteus Maximus",
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [
+        "Adductors",
+        "Calves"
+      ]
+    },
+    {
+      "exercise": "Plank",
+      "category": "Core",
+      "primaryMuscles": [
+        "Rectus Abdominis",
+        "Transverse Abdominis"
+      ],
+      "secondaryMuscles": [
+        "Obliques",
+        "Gluteus Maximus",
+        "Quadriceps"
+      ]
+    },
+    {
+      "exercise": "Russian Twist",
+      "category": "Core",
+      "primaryMuscles": [
+        "Obliques"
+      ],
+      "secondaryMuscles": [
+        "Rectus Abdominis",
+        "Transverse Abdominis"
+      ]
+    },
+    {
+      "exercise": "Hammer Curl",
+      "category": "Arms",
+      "primaryMuscles": [
+        "Biceps Brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "secondaryMuscles": [
+        "Forearms"
+      ]
+    },
+    {
+      "exercise": "Skull Crushers",
+      "category": "Arms",
+      "primaryMuscles": [
+        "Triceps Brachii"
+      ],
+      "secondaryMuscles": [
+        "Anconeus"
+      ]
+    },
+    {
+      "exercise": "Calf Raises",
+      "category": "Legs",
+      "primaryMuscles": [
+        "Gastrocnemius",
+        "Soleus"
+      ],
+      "secondaryMuscles": []
+    },
+    {
+      "exercise": "Reverse Fly",
+      "category": "Back",
+      "primaryMuscles": [
+        "Posterior Deltoid",
+        "Trapezius",
+        "Rhomboids"
+      ],
+      "secondaryMuscles": [
+        "Infraspinatus",
+        "Teres Minor"
+      ]
+    },
+    {
+      "exercise": "Front Raise",
+      "category": "Shoulders",
+      "primaryMuscles": [
+        "Anterior Deltoid"
+      ],
+      "secondaryMuscles": [
+        "Lateral Deltoid",
+        "Trapezius",
+        "Serratus Anterior"
+      ]
+    },
+      {
+        "exercise": "Seated Dumbbell Shoulder Press",
+        "category": "Shoulders",
+        "primaryMuscles": ["Deltoid"],
+        "secondaryMuscles": ["Trapezius", "Supraspinatus", "Serratus Anterior", "Triceps Brachii"]
+      },
+      {
+        "exercise": "Standing Barbell Curl",
+        "category": "Arms",
+        "primaryMuscles": ["Biceps Brachii"],
+        "secondaryMuscles": ["Brachialis", "Brachioradialis", "Anterior Deltoid", "Upper Trapezius", "Middle Trapezius", "Levator Scapulae", "Forearms"]
+      },
+      {
+        "exercise": "Incline Bench Dumbbell Chest Press",
+        "category": "Chest",
+        "primaryMuscles": ["Pectoralis Major"],
+        "secondaryMuscles": ["Anterior Deltoid", "Triceps Brachii"]
+      },
+      {
+        "exercise": "Wide-Grip Lat Pulldown",
+        "category": "Back",
+        "primaryMuscles": ["Latissimus Dorsi"],
+        "secondaryMuscles": ["Trapezius", "Rhomboids", "Posterior Deltoid", "Teres Major", "Teres Minor", "Infraspinatus", "Brachialis", "Brachioradialis"]
+      },
+        {
+          "exercise": "Bulgarian Split Squat",
+          "category": "Legs",
+          "primaryMuscles": ["Quadriceps", "Gluteus Maximus"],
+          "secondaryMuscles": ["Hamstrings", "Calves", "Adductor Magnus", "Erector Spinae"]
+        },
+        {
+          "exercise": "Seated Cable Row",
+          "category": "Back",
+          "primaryMuscles": ["Latissimus Dorsi", "Rhomboids"],
+          "secondaryMuscles": ["Trapezius", "Posterior Deltoid", "Biceps Brachii", "Brachialis", "Brachioradialis"]
+        },
+        {
+          "exercise": "Close-Grip Bench Press",
+          "category": "Arms",
+          "primaryMuscles": ["Triceps Brachii"],
+          "secondaryMuscles": ["Pectoralis Major", "Anterior Deltoid"]
+        },
+        {
+          "exercise": "Pendlay Row",
+          "category": "Back",
+          "primaryMuscles": ["Latissimus Dorsi", "Rhomboids", "Trapezius"],
+          "secondaryMuscles": ["Posterior Deltoid", "Biceps Brachii", "Brachialis", "Brachioradialis"]
+        },
+        {
+          "exercise": "Front Squat",
+          "category": "Legs",
+          "primaryMuscles": ["Quadriceps"],
+          "secondaryMuscles": ["Hamstrings", "Gluteus Maximus", "Calves", "Adductor Magnus", "Erector Spinae"]
+        },
+        {
+          "exercise": "Dumbbell Lateral Raise",
+          "category": "Shoulders",
+          "primaryMuscles": ["Deltoid"],
+          "secondaryMuscles": ["Supraspinatus", "Trapezius", "Serratus Anterior"]
+        },
+        {
+          "exercise": "Romanian Deadlift",
+          "category": "Legs",
+          "primaryMuscles": ["Hamstrings", "Gluteus Maximus"],
+          "secondaryMuscles": ["Erector Spinae", "Adductor Magnus", "Gastrocnemius"]
+        },
+        {
+          "exercise": "Cable Fly",
+          "category": "Chest",
+          "primaryMuscles": ["Pectoralis Major"],
+          "secondaryMuscles": ["Anterior Deltoid"]
+        },
+        {
+          "exercise": "Cable Tricep Pushdown",
+          "category": "Arms",
+          "primaryMuscles": ["Triceps Brachii"],
+          "secondaryMuscles": ["Anconeus"]
+        } 
+]
